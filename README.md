@@ -4,6 +4,7 @@
 FE 3명 BE 3명 총 6명
 
 FE를 맡았고 메인페이지, 카테고리 상세페이지, 내 정보 페이지를 담당하였습니다.
+[SW_Engineer_6_-_.pdf](https://github.com/NamhyunK/Shoppingmall_project/files/13185977/SW_Engineer_6_-_.pdf)
 <img width="1440" alt="스크린샷 2023-10-24 오후 9 15 28" src="https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/13534dd1-abc3-4149-90b7-ccffeb747c11">
 <img width="1440" alt="스크린샷 2023-10-24 오후 9 15 36" src="https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/d74f3efa-e70c-44a5-8932-0a5391e0d67b">
 <img width="1440" alt="스크린샷 2023-10-24 오후 9 15 49" src="https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/d5297a2a-bb20-4bfa-827d-769d32483b4c">
@@ -15,7 +16,5 @@ FE를 맡았고 메인페이지, 카테고리 상세페이지, 내 정보 페이
 <img width="1440" alt="스크린샷 2023-10-24 오후 9 16 45" src="https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/1f585400-535e-45f7-8f3e-cee73ccab2cc">
 <img width="1440" alt="스크린샷 2023-10-24 오후 9 16 52" src="https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/bda47a7b-d495-4fbc-af92-3f803ff2f214">
 <img width="1440" alt="스크린샷 2023-10-24 오후 9 16 59" src="https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/6c004525-d060-4992-afd1-32f6e3547cea">
-
-
 
 
