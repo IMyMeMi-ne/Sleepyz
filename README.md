@@ -1,5 +1,4 @@
 # 엘리스 1차 프로젝트
-### http://kdt-sw-6-team06.elicecoding.com/pages/
 
 FE 3명 BE 3명 총 6명
 
