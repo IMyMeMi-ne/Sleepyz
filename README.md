@@ -31,8 +31,5 @@ Figma 링크 : https://www.figma.com/design/Iq6dRdX9Wtn8FQ059lmm1P/Sleepyz?node-
 [![내 정보 페이지](https://github.com/IMyMeMi-ne/Sleepyz/assets/134134031/e72bf3b1-080a-4043-bccd-389981fa8af5)](https://github.com/IMyMeMi-ne/Sleepyz/assets/134134031/fee81983-a5aa-4ad4-92dd-1d8a26275904)
 
 
-![내 정보 페이지](https://github.com/IMyMeMi-ne/Sleepyz/assets/134134031/fee81983-a5aa-4ad4-92dd-1d8a26275904)
-
-
 
 
