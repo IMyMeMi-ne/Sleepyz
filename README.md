@@ -23,13 +23,13 @@ Figma 링크 : https://www.figma.com/design/Iq6dRdX9Wtn8FQ059lmm1P/Sleepyz?node-
 <img width="1440" alt="스크린샷 2023-10-24 오후 9 16 52" src="https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/bda47a7b-d495-4fbc-af92-3f803ff2f214">
 <img width="1440" alt="스크린샷 2023-10-24 오후 9 16 59" src="https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/6c004525-d060-4992-afd1-32f6e3547cea">
 최우수상 수상
-![image](https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/cead6f97-755e-468c-bc16-a08be98e7fd0)
 
-메인 페이지 및 카테고리별 페이지 
-https://github.com/IMyMeMi-ne/Sleepyz/assets/134134031/e72bf3b1-080a-4043-bccd-389981fa8af5
+![메인 페이지 및 카테고리별 페이지](https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/cead6f97-755e-468c-bc16-a08be98e7fd0)
 
-내 정보 페이지
-https://github.com/IMyMeMi-ne/Sleepyz/assets/134134031/fee81983-a5aa-4ad4-92dd-1d8a26275904
+![내 정보 페이지](https://github.com/IMyMeMi-ne/Sleepyz/assets/134134031/e72bf3b1-080a-4043-bccd-389981fa8af5)
+
+![내 정보 페이지](https://github.com/IMyMeMi-ne/Sleepyz/assets/134134031/fee81983-a5aa-4ad4-92dd-1d8a26275904)
+
 
 
 
