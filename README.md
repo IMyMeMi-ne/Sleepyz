@@ -1,13 +1,16 @@
 # 엘리스 1차 프로젝트
 
 기간 : 2023.10.2 ~ 2023.10.14(총 13일)
+
 인원 : 프론트엔드 3명, 백엔드 3명 총 6명 (프론트엔드 담당)
+
 Figma 링크 : https://www.figma.com/design/Iq6dRdX9Wtn8FQ059lmm1P/Sleepyz?node-id=0-1
+
 사용한 기술 스택 : HTML5, CSS3, JavaScript
 
 담당 부분 : 메인 페이지, 카테고리별 페이지, 내 정보 페이지
 
-![image](https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/cead6f97-755e-468c-bc16-a08be98e7fd0)
+
 <img width="1440" alt="스크린샷 2023-10-24 오후 9 15 28" src="https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/13534dd1-abc3-4149-90b7-ccffeb747c11">
 <img width="1440" alt="스크린샷 2023-10-24 오후 9 15 36" src="https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/d74f3efa-e70c-44a5-8932-0a5391e0d67b">
 <img width="1440" alt="스크린샷 2023-10-24 오후 9 15 49" src="https://github.com/NamhyunK/Shoppingmall_project/assets/134134031/d5297a2a-bb20-4bfa-827d-769d32483b4c">
